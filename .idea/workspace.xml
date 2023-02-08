@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8c6563e2-70d6-427e-8871-f2c343f6ec73" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/Cylinder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Cylinder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SecondsToHours.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,7 +44,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1675815662743</updated>
-      <workItem from="1675815664410" duration="1206000" />
+      <workItem from="1675815664410" duration="5710000" />
     </task>
     <task id="LOCAL-00001" summary="Comment added&#10;program created">
       <created>1675816180500</created>
@@ -59,7 +60,21 @@
       <option name="project" value="LOCAL" />
       <updated>1675816502932</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="&#10;program created">
+      <created>1675816910827</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1675816910827</updated>
+    </task>
+    <task id="LOCAL-00004" summary="program created">
+      <created>1675817144178</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1675817144178</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -78,6 +93,9 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Comment added&#10;program created" />
-    <option name="LAST_COMMIT_MESSAGE" value="Comment added&#10;program created" />
+    <MESSAGE value="&#10;program created" />
+    <MESSAGE value="class comment added&#10;program created" />
+    <MESSAGE value="program created" />
+    <option name="LAST_COMMIT_MESSAGE" value="program created" />
   </component>
 </project>
