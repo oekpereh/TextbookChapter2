@@ -12,13 +12,12 @@ import java.util.Scanner;
 public class SecondsToHours {
     public static void main(String[] args ){
         Scanner input = new Scanner(System.in);
-        System.out.println("Enter an integer for total seconds: ");
+        System.out.print("Enter an integer for total seconds: ");
         int seconds = input.nextInt();
         int numb1 = seconds % 60;
         int numb2 = seconds / 60;
         int numb3 = numb2 % 60;
         numb2 = numb2 / 60;
-
        System.out.println("If the total hours is " +seconds + "," + "it is " +numb2 + " hours," +numb3 + " minutes " + "and " +numb1 + " seconds");
 
     }
