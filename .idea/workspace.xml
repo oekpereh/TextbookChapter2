@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8c6563e2-70d6-427e-8871-f2c343f6ec73" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/SecondsToHours.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Paint.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -44,7 +44,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1675815662743</updated>
-      <workItem from="1675815664410" duration="5710000" />
+      <workItem from="1675815664410" duration="8769000" />
     </task>
     <task id="LOCAL-00001" summary="Comment added&#10;program created">
       <created>1675816180500</created>
@@ -74,7 +74,21 @@
       <option name="project" value="LOCAL" />
       <updated>1675817144178</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="notes added">
+      <created>1675821564438</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1675821564438</updated>
+    </task>
+    <task id="LOCAL-00006" summary="changes made in line 15">
+      <created>1675821733445</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1675821733445</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -96,6 +110,8 @@
     <MESSAGE value="&#10;program created" />
     <MESSAGE value="class comment added&#10;program created" />
     <MESSAGE value="program created" />
-    <option name="LAST_COMMIT_MESSAGE" value="program created" />
+    <MESSAGE value="notes added" />
+    <MESSAGE value="changes made in line 15" />
+    <option name="LAST_COMMIT_MESSAGE" value="changes made in line 15" />
   </component>
 </project>
